@@ -23,5 +23,25 @@
     "repository": "DirtyUnicorns/android_vendor_oppo",
     "target_path": "vendor/oppo",
     "branch": "m-caf"
+  },
+  {
+    "repository": "DirtyUnicorns/android_external_connectivity",
+    "target_path": "external/connectivity",
+    "branch": "m-caf"
+  },
+  {
+    "repository": "DirtyUnicorns/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "m-caf"
+  },
+  {
+    "repository": "DirtyUnicorns/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "m-caf"
+  },
+  {
+    "repository": "DirtyUnicorns/android_vendor_qcom_opensource_dataservices",
+    "target_path": "vendor/qcom/opensource/dataservices",
+    "branch": "m-caf"
   }
 ]
